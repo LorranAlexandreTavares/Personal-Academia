@@ -1,0 +1,5 @@
+{
+  "name": "Gym Control Pro",
+  "description": "A web system for personal trainers and gyms to manage students, focusing on workout plans, physical assessments, progress tracking, and attendance reports.",
+  "requestFramePermissions": []
+}
