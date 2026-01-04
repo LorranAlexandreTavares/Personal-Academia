@@ -13,7 +13,7 @@ interface StudentFormProps {
 const initialFormState = {
   name: '',
   birthDate: '',
-  gender: Gender.Male,
+  gender: Gender.Female,
   startDate: new Date().toISOString().split('T')[0],
   observations: '',
   assessments: [],
